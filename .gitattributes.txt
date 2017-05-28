@@ -1,0 +1,73 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Gist
+ @denisvieir
+ Sign out
+ Watch 1
+  Star 0
+  Fork 0 dn32-2/dn32-comercio
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki Insights 
+Branch: master Find file Copy pathdn32-comercio/.gitattributes
+b5c73f9  on Oct 25 2016
+@dn32 dn32 Configuração
+1 contributor
+RawBlameHistory     
+53 lines (48 sloc)  864 Bytes
+*.doc  diff=astextplain
+*.DOC	diff=astextplain
+*.docx	diff=astextplain
+*.DOCX	diff=astextplain
+*.dot	diff=astextplain
+*.DOT	diff=astextplain
+*.pdf	diff=astextplain
+*.PDF	diff=astextplain
+*.rtf	diff=astextplain
+*.RTF	diff=astextplain
+
+*.jpg  	binary
+*.png 	binary
+*.gif 	binary
+
+*.cs text=auto diff=csharp 
+*.vb text=auto
+*.resx text=auto
+*.c text=auto
+*.cpp text=auto
+*.cxx text=auto
+*.h text=auto
+*.hxx text=auto
+*.py text=auto
+*.rb text=auto
+*.java text=auto
+*.html text=auto
+*.htm text=auto
+*.css text=auto
+*.scss text=auto
+*.sass text=auto
+*.less text=auto
+*.js text=auto
+*.lisp text=auto
+*.clj text=auto
+*.sql text=auto
+*.php text=auto
+*.lua text=auto
+*.m text=auto
+*.asm text=auto
+*.erl text=auto
+*.fs text=auto
+*.fsx text=auto
+*.hs text=auto
+
+*.csproj text=auto
+*.vbproj text=auto
+*.fsproj text=auto
+*.dbproj text=auto
+*.sln text=auto eol=crlf
+
+*.sh eol=lf
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
